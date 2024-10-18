@@ -29,17 +29,4 @@ h1 {
 .card {
     width: 30%;
     background-color: rgb(231, 227, 227);
-    display: flex;
-}
-
-.card-img {
-    width: 80%;
-}
-
-.card-img_container {
-    width: 30%;
-}
-
-.card-content_container {
-    width: 70%;
 }

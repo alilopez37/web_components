@@ -10,6 +10,7 @@ async function renderTask(){
         const card = document.createElement("my-card")
         card.setAttribute("image", task.image)
         card.setAttribute("name", task.name)
+        card.className = "card"
         container.appendChild(card)
     })
 }
